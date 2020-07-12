@@ -1,1 +1,1 @@
-We are Team 8569 Roboknights, from Camelot Academy. This code is used in conjunction with the FTC App, available from https://github.com/ftctechnh/ftc_app. Our mentors are incredible
+We are Team 8569 Roboknights, from Camelot Academy. This code is used in conjunction with the FTC App, available from https://github.com/ftctechnh/ftc_app. Our mentors are incredible. More changes are coming
